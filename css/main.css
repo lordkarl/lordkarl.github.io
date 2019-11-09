@@ -73,6 +73,7 @@ a {
   color: #6397b5;
 }
 p {
+  margin: 0.75em 0;
   line-height: 1.25;
 }
 h2 ~ p {
@@ -252,16 +253,23 @@ h2 ~ p {
   text-align: center;
 }
 .home-callout {
+  align-items: center;
   background-color: #000;
   color: #fff;
+  display: flex;
   padding: 7vh 0;
 }
 .callout-title {
+  flex-grow: 1;
+  flex-basis: 0;
   font-size: 5.75vw;
   text-align: right;
   text-transform: uppercase;
 }
 .callout-copy {
+  flex-shrink: 0;
+  flex-basis: 45em;
+  padding: 0 3vw;
   font-size: 0.8rem;
 }
 
