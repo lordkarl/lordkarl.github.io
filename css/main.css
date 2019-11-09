@@ -246,7 +246,11 @@ h2 ~ p {
   transform: translate(-50%, 0);
   width: 0;
 }
-
+.half-hero {
+  background-position: center center;
+  background-size: cover;
+  height: 40vh;
+}
 .hero-content {
   color: #fff;
   position: relative;
@@ -310,6 +314,17 @@ h2 ~ p {
 .home-section h2 {
   margin-bottom: 1.5rem;
   text-align: center;
+}
+.homes-section h4 {
+  margin-bottom: 0.5em;
+  text-align: center;
+}
+.home-section .post-header {
+  text-align: center;
+}
+.home-section .blog-posts {
+  margin: auto;
+  width: 75%;
 }
 .home-callout {
   align-items: center;
