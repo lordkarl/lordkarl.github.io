@@ -17,14 +17,21 @@ the spleen and regulating the circulation.
 <img class="pull-left" src="https://placekitten.com/g/400/200"
      alt="kitten">
 
-Whenever I find myself growing grim about the mouth; whenever it is a damp,
-drizzly November in my soul; whenever I find myself involuntarily pausing
+Whenever I find myself **growing grim** about the mouth; whenever it is a damp,
+drizzly *November* in my soul; whenever I find myself involuntarily pausing
 before coffin warehouses, and bringing up the rear of every funeral I meet;
 and especially whenever my hypos get such an upper hand of me, that it
 requires a strong moral principle to prevent me from deliberately stepping
 into the street, and methodically knocking people’s hats off—then, I
 account it high time to get to sea as soon as I can. This is my substitute
 for pistol and ball.
+
+| This is   |  that is   | final result  |
+|:---------:|:----------:|:-------------:|
+|data | data | data |
+|Data | Data | Data|
+|This | is | data|
+|There | is | some more data|
 
 With a philosophical flourish Cato throws himself upon
 his sword; I quietly take to the ship. There is nothing surprising in this.
